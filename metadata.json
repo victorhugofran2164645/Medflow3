@@ -1,0 +1,7 @@
+{
+  "name": "MedFlow - Gestão de Medicação Hospitalar",
+  "description": "Uma aplicação web mobile-first abrangente para gerir todo o ciclo de vida dos medicamentos num ambiente hospitalar. Possui acesso baseado em funções para administradores, médicos, enfermeiros e farmacêuticos, garantindo fluxos de trabalho seguros e eficientes, desde o inventário até à administração ao paciente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
